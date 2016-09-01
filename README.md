@@ -18,3 +18,8 @@ ADD helloworld.swift ./
 RUN swiftc helloworld.swift
 CMD ./helloworld
 ```
+
+You can also jump into the Swift REPL like this:
+```
+$ docker run -it --privileged smithmicro/swift swift
+```
