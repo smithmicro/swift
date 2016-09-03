@@ -4,8 +4,9 @@ Swift 3 Trunk Development builds
 # Docker Hub
 The image is available on Docker Hub as [`smithmicro/swift`](https://hub.docker.com/r/smithmicro/swift/) with the following tags:
 
-  * `latest`, `0901` ([Dockerfile](https://github.com/smithmicro/swift/blob/master/Dockerfile)) swift-DEVELOPMENT-SNAPSHOT-2016-09-01-a
-  * `0831` ([Dockerfile](https://github.com/smithmicro/swift/blob/master/Dockerfile)) swift-DEVELOPMENT-SNAPSHOT-2016-08-31-a
+  * `latest`, `0902` ([Dockerfile](https://github.com/smithmicro/swift/blob/master/Dockerfile)) swift-DEVELOPMENT-SNAPSHOT-2016-09-02-a
+  * `0901` swift-DEVELOPMENT-SNAPSHOT-2016-09-01-a
+  * `0831` swift-DEVELOPMENT-SNAPSHOT-2016-08-31-a
   * `0830` swift-DEVELOPMENT-SNAPSHOT-2016-08-30-a
   * `0829` swift-DEVELOPMENT-SNAPSHOT-2016-08-29-a
   * `0826` swift-DEVELOPMENT-SNAPSHOT-2016-08-26-a
