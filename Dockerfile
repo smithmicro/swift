@@ -3,9 +3,9 @@ MAINTAINER Smith Micro Software, Inc.
 LABEL Description="Swift 3 on Ubuntu 15.10"
 
 ENV UBUNTU_VERSION ubuntu15.10
-ENV SWIFT_SNAPSHOT swift-3.0-RELEASE
+ENV SWIFT_SNAPSHOT swift-3.0.1-GM-CANDIDATE
 ENV SWIFT_ARCHIVE $SWIFT_SNAPSHOT-$UBUNTU_VERSION.tar.gz
-ENV SWIFT_PATH builds/swift-3.0-release/ubuntu1510/$SWIFT_SNAPSHOT
+ENV SWIFT_PATH builds/$SWIFT_SNAPSHOT/ubuntu1510/$SWIFT_SNAPSHOT
 
 # Swift Prerequisites
 RUN apt-get update && apt-get install -y \
